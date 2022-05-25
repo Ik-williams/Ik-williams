@@ -22,5 +22,5 @@ Hi,I'm Ik Williams 🙌, a Software Engineer ("Fullstack Developer")..❤✌
 - 🔭 I’m currently a freelancer
 - 👯 I’m looking to collaborate on Javascript, Nodejs and React projects
 - 💬 feel free to ask me anything
-- 📫 How to reach me: email: ikswaqqs40@gmail.com, [LinkedIn](linked-in), [Instagram](instagram)
+- 📫 How to reach me: email: ikswaqqs40@gmail.com, [LinkedIn](#linked-in), [Instagram](#instagram)
 - ⚡ Fun fact: I love Coding, Playing Chess and many more...
