@@ -1,7 +1,7 @@
 ### Hi there 👋 
 It's <strong>Ik Williams</strong>  <img align="center" width="15px" alt="GIF" src="https://media.giphy.com/media/3d4RmvOnRoYrnRBcFS/giphy.gif" /> 
 <br />
-<a href="https://portfolio-rczgk1hm4-ikswaqqs40.vercel.app/">click to view my Portfolio </a>
+<a href="https://portfolio-rczgk1hm4-ikswaqqs40.vercel.app/">>>>click to view my Portfolio<<< </a>
 <br />
 ### Find me on:
 <a href="https://www.linkedin.com/in/ik-williams-7b646912b/">
