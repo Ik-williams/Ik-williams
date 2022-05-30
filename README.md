@@ -14,7 +14,7 @@ it's <strong>Ik Williams</strong>  <img align="center" width="15px" alt="GIF" sr
 <br />
 <br />
 
-Hi,I'm Ik Williams 🙌, a Software Engineer ("Fullstack Developer")..❤✌
+Hi I'm Ik Williams 🙌, a Software Engineer ("Fullstack Developer")..❤✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
