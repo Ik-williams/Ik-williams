@@ -1,5 +1,5 @@
 ### Hi there 👋 
-It's <strong>Ik Williams</strong>  <img align="center" width="15px" alt="GIF" src="https://media.giphy.com/media/3d4RmvOnRoYrnRBcFS/giphy.gif" /> 
+It's <strong>Ik Williams</strong>  <img align="center" width="15px" height="20px" alt="GIF" src="https://media.giphy.com/media/3d4RmvOnRoYrnRBcFS/giphy.gif" /> 
 <br />
 <a href="https://portfolio-ikswaqqs40.vercel.app/">>>>click to view my Portfolio<<< </a>
 <br />
